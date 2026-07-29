@@ -145,7 +145,7 @@ Movie-Rating-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Movie-Rating-Prediction.git
+git clone https://github.com/deepthireddy2605/Movie-Rating-Prediction.git
 ```
 
 ### 2. Install Required Libraries
